@@ -1,0 +1,110 @@
+#logo {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.begin {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.begin img {
+    width: 200px;
+    display: block;
+}
+
+.text-get {
+    display: block;
+    margin-left: 60px;
+    width: 300px;
+    font-size: xxx-large;
+}
+.apps-buttons img {
+    width: 150px;
+}
+
+.info, .container {
+    background-color: #034E93;
+}
+
+.to-download {
+    color: white;
+    font-size: xx-large;
+    
+    background-image: url("back1.png");
+}
+
+.to-download div {
+    display: inline-grid;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 68px;
+}
+
+.to-download div p {
+    margin-bottom: 0;
+}
+
+.to-download button {
+    
+    color:white;
+    background-color: #F09801;
+    border-color: #ffc107;
+    border: 3px solid white;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    
+}
+.info div {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 96px;
+    text-align: center;
+}
+.info div i {
+    font-size: 75px;
+    text-align: center;
+}
+
+#back2 {
+    width: -webkit-fill-available;
+}
+
+.forms {
+    display: flex;
+}
+
+.forms div{
+    color: gray;
+    font-size: xx-large;
+    width: 422px;
+}
+
+
+.forms form {
+    justify-content: flex-end;
+    width: 223px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.forms form input {
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    
+}
